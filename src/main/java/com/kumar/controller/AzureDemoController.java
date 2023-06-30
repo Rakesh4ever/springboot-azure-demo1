@@ -8,6 +8,6 @@ public class AzureDemoController {
 
 	@GetMapping("/geMessage")
 	public String getConnectionWithAzure() {
-		return "Conneted to the Azure cloud : Deployed successfully";
+		return "Conneted to the Azure cloud : Deployed successfully2";
 	}
 }
